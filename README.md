@@ -48,7 +48,7 @@
 
 | 7. Mengakses Metadata menggunakan Catalog |
 | --------------------- |
-| ![image](https://user-images.githubusercontent.com/95726593/234930881-4bb57343-bf49-4cf6-81af-47ac258c2361.png) |
+| ![image](https://user-images.githubusercontent.com/95726593/234932859-a7fc0040-9efe-4586-b8f0-a7b83c5c925b.png) |
 
 | 8. Bekerja dengan Berkas Teks |
 | --------------------- |
