@@ -28,33 +28,38 @@
 
 | 2. Analitik Dataframe |
 | --------------------- |
-| ![image](https://user-images.githubusercontent.com/95726593/234927496-d83ab97a-860c-4f9f-8259-f6e7848ce5a9.png)
-![image](https://user-images.githubusercontent.com/95726593/234927665-f70d99fb-d29f-4f04-b64f-cd2fba56e0e9.png) |
+| ![image](https://user-images.githubusercontent.com/95726593/234929495-d606dd27-cc90-4e8e-bbce-1860b485faa3.png) |
 
-| 1. Start Spark Daemon |
+| 3. Membuat Dataframe dengan Database Eksternal |
 | --------------------- |
-| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+| ![image](https://user-images.githubusercontent.com/95726593/234929659-2813e2ba-83da-435c-a54d-99cf19ebac23.png)![image](https://user-images.githubusercontent.com/95726593/234929684-f1f1d731-bdbd-4769-bb50-18ac2319fbf5.png) |
 
-| 1. Start Spark Daemon |
+| 4. Mengkonversi DataFrame ke RDDs |
 | --------------------- |
-| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+| ![image](https://user-images.githubusercontent.com/95726593/234929831-1e6757fb-b59c-4c5a-870f-22acf57c6986.png) |
 
-| 1. Start Spark Daemon |
+| 5. Membuat Dataset |
 | --------------------- |
-| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+| ![image](https://user-images.githubusercontent.com/95726593/234929911-ef439c2b-b4e2-461b-8be9-a48061a58e4a.png) |
 
-| 1. Start Spark Daemon |
+| 6. Mengkonversi Data Frame ke Dataset dan Sebaliknya |
 | --------------------- |
-| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+| ![image](https://user-images.githubusercontent.com/95726593/234929979-6b2a966e-4e12-45a5-89eb-fe99af1d1ec3.png) |
 
-| 1. Start Spark Daemon |
+| 7. Mengakses Metadata menggunakan Catalog |
 | --------------------- |
-| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+| ![image](https://user-images.githubusercontent.com/95726593/234930064-05a3bee8-df10-44db-8416-cdba3da8e8e7.png)![image](https://user-images.githubusercontent.com/95726593/234930082-4bf8a8f8-dff5-4aa4-b31a-e1f2264b91db.png) |
 
-| 1. Start Spark Daemon |
+| 8. Bekerja dengan Berkas Teks |
 | --------------------- |
-| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+| ![image](https://user-images.githubusercontent.com/95726593/234930192-281a5e42-0cf6-441c-813b-6aa0a2a0e34e.png) |
 
-| 1. Start Spark Daemon |
+| 9. Bekerja dengan Berkas Json |
 | --------------------- |
-| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+| ![image](https://user-images.githubusercontent.com/95726593/234930261-94ef3a0b-2247-4e08-a001-613d957adbbb.png) |
+
+| 10. Bekerja dengan Berkas CSV |
+| --------------------- |
+| ![image](https://user-images.githubusercontent.com/95726593/234930385-22ce9c70-428c-434d-92d1-2d379236cbf9.png) |
+
+
