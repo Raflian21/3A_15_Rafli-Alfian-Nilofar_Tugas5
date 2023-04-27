@@ -21,3 +21,40 @@
 |      16       | write dan save berfungsi untuk menulis data ke file sistem menggunakan write, kemudian menyimpan data menggunakan save |
 |      17       | parquet berfungsi untuk menulis data ke format parquet |
 |      18       | Options, inferSchema, csv, header, dan codec berfungsi untuk menentukan opsi untuk pembacaan file csv dan menentukan header dan codec |
+
+| 1. Start Spark Daemon |
+| --------------------- |
+| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+
+| 2. Analitik Dataframe |
+| --------------------- |
+| ![image](https://user-images.githubusercontent.com/95726593/234927496-d83ab97a-860c-4f9f-8259-f6e7848ce5a9.png)
+![image](https://user-images.githubusercontent.com/95726593/234927665-f70d99fb-d29f-4f04-b64f-cd2fba56e0e9.png) |
+
+| 1. Start Spark Daemon |
+| --------------------- |
+| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+
+| 1. Start Spark Daemon |
+| --------------------- |
+| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+
+| 1. Start Spark Daemon |
+| --------------------- |
+| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+
+| 1. Start Spark Daemon |
+| --------------------- |
+| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+
+| 1. Start Spark Daemon |
+| --------------------- |
+| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+
+| 1. Start Spark Daemon |
+| --------------------- |
+| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
+
+| 1. Start Spark Daemon |
+| --------------------- |
+| ![image](https://user-images.githubusercontent.com/95726593/234925709-3b17c1e5-5e38-43bc-9296-3b6834bc4eba.png) |
