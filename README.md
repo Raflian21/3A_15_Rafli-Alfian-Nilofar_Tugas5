@@ -28,7 +28,7 @@
 
 | 2. Analitik Dataframe |
 | --------------------- |
-| ![image](https://user-images.githubusercontent.com/95726593/234929495-d606dd27-cc90-4e8e-bbce-1860b485faa3.png) |
+| ![image](https://user-images.githubusercontent.com/95726593/234931862-8b0206e3-2f6b-4f90-9e88-475c762ca430.png)![image](https://user-images.githubusercontent.com/95726593/234931902-a5ca18ef-1bf1-447d-afd2-806508c5c4b1.png) |
 
 | 3. Membuat Dataframe dengan Database Eksternal |
 | --------------------- |
